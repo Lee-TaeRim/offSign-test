@@ -1,2 +1,2 @@
-# sara_offline
-사랑코인 오프라인 서명
+# offline test
+오프라인 트랜잭션 서명 테스트
